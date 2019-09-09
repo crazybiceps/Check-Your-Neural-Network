@@ -10,4 +10,5 @@ Hence you need to run the code more times to reach the random right initial poin
 
 To learn more you need to look at the various 
 Optimization Algorithms: https://towardsdatascience.com/types-of-optimization-algorithms-used-in-neural-networks-and-ways-to-optimize-gradient-95ae5d39529f
+
 and the loss functions: https://towardsdatascience.com/understanding-different-loss-functions-for-neural-networks-dd1ed0274718 
