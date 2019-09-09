@@ -1,5 +1,5 @@
 # Check-Your-Neural-Network
-This is good example to show how neural network transforms space
+This is a good example to show how neural network transforms space
 
 The target is to classify the data with 100% accuracy with minimum nodes/weights 
 
