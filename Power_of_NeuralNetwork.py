@@ -1,11 +1,4 @@
-""" Created on Mon Sep  9 14:36:35 2019 """
-
 import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-import math
-import scipy
-import random
 import keras
 
 from keras.models import Sequential
